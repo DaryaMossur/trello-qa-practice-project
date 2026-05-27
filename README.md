@@ -10,7 +10,7 @@ The following types of testing were performed:
 - Exploratory Testing
 - Basic Responsive Testing
 
-## Test Documentation
+## Test documentation
 ### Checklist
 Contains main verification points for:
 - Authentication
@@ -20,7 +20,7 @@ Contains main verification points for:
 - Search
 - Responsive UI
 
-### Test Cases
+### Test cases
 Includes detailed test scenarios with:
 - Preconditions
 - Steps to reproduce
@@ -28,14 +28,14 @@ Includes detailed test scenarios with:
 - Actual results
 - Statuses
 
-### Bug Reports
+### Bug reports
 Contains documented defects with:
 - Severity
 - Priority
 - Reproduction steps
 - Expected and actual results
 
-## Tools Used
+## Tools used
 - Google Sheets
 - GitHub
 - Chrome DevTools
