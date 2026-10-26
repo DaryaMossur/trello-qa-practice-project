@@ -1,5 +1,4 @@
 This repository contains practiced manual testing of the Trello web application.
-Tested features: login, boards, cards, search, and drag-and-drop.
 
 ## Project files
 - `checklist/` - testing checklist
